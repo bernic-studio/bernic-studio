@@ -1,0 +1,27 @@
+/* リセットCSS */
+@import url("https://cdn.jsdelivr.net/npm/modern-css-reset/dist/reset.min.css");
+
+/* Noto Sans JPフォント */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap");
+
+/* 全ての要素にNoto Sans JPを適用 */
+* {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+/* 全てのリンクに#0022ffを適用 */
+a {
+  color: #0022ff;
+}
+
+/* Bernic Studio's Templete Colors */
+:root {
+  --bernic-studio-general-fcolor-1: #0B0B0F;
+  --bernic-studio-general-fcolor-2: #0B0B0F;
+  --bernic-studio-general-fcolor-3: #424242;
+  --bernic-studio-general-fcolor-4: #5c5c5c;
+}
+
+body {
+  background-color: #ededed;
+}
