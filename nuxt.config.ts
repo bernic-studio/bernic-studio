@@ -13,7 +13,7 @@ export default defineNuxtConfig({
         { name: "viewport", content: "width=device-width, initial-scale=1" },
       ],
       link: [
-        { rel: "icon", type: "image/png", href: "/icon.svg" },
+        { rel: "icon", type: "image/png", href: "/assets/images/icon.svg" },
       ],
       script: [
         { src: "https://kit.fontawesome.com/e48ae4e274.js", crossorigin: "anonymous"},
