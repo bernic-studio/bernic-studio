@@ -4,6 +4,10 @@
 
 <template>
   <GlobalWelcomeSection titleText="プロジェクト" descriptionTextHtml="<p>プロジェクト一覧<br>このページではBernomixのプロジェクトをまとめています。</p>" />
+    <GlobalSectionWithSlot titleText="特殊">
+      <GlobalCard titleText=".github" descriptionTextHtml="<p>Bernomixの説明文<br><a href='https://github.com/bernomix/.github'>Github</a></p>" />
+      <GlobalCard titleText=".bernic-studio-contents" descriptionTextHtml="<p>Bernomixの画像素材ならなんやら<br><a href='https://github.com/bernomix/.github'>Github</a></p>" />
+    </GlobalSectionWithSlot>
   <GlobalSectionWithSlot titleText="ウェブ関係">
     <GlobalCard titleText="Bernomix（ウェブサイト）" descriptionTextHtml="<p>Bernomixのホームページ。<br><a href='https://github.com/bernomix/bernomix'>Github</a></p>" />
   </GlobalSectionWithSlot>
