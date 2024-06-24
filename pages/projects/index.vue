@@ -3,11 +3,11 @@
 </script>
 
 <template>
-  <GlobalWelcomeSection titleText="プロジェクト" descriptionTextHtml="<p>プロジェクト一覧<br>このページではBernic Studioのプロジェクトをまとめています。</p>" />
+  <GlobalWelcomeSection titleText="プロジェクト" descriptionTextHtml="<p>プロジェクト一覧<br>このページではBernomixのプロジェクトをまとめています。</p>" />
   <GlobalSectionWithSlot titleText="ウェブ関係">
-    <GlobalCard titleText="Bernic Studio（ウェブサイト）" descriptionTextHtml="<p>Bernic Studioのホームページ。<br><a href='https://github.com/bernic-studio/bernic-studio'>Github</a></p>" />
+    <GlobalCard titleText="Bernomix（ウェブサイト）" descriptionTextHtml="<p>Bernomixのホームページ。<br><a href='https://github.com/bernomix/bernomix'>Github</a></p>" />
   </GlobalSectionWithSlot>
   <GlobalSectionWithSlot titleText="Wiki関係">
-    <GlobalCard titleText="Bernic Studio Wiki" descriptionTextHtml="<p>Bernic StudioのWiki。<br><a href='https://bernic-studio.notion.site/b712c50a26094da7acb45364b0fa0fb4?pvs=4'>Notion</a></p>" />
+    <GlobalCard titleText="Bernomix Wiki" descriptionTextHtml="<p>BernomixのWiki。<br><a href='https://bernomix.notion.site/Bernomix-Wiki-73cd87a7f6a74d11900bba37e83e9c01?pvs=4'>Notion</a></p>" />
   </GlobalSectionWithSlot>
 </template>

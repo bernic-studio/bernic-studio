@@ -4,7 +4,7 @@
 
 <template>
   <div class="footer">
-    <p>© 2024 - 2024 Bernic Studio - All Rights Reserved</p>
+    <p>© 2024 - 2024 Bernomix - All Rights Reserved</p>
   </div>
 </template>
 

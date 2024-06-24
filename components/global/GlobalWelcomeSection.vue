@@ -25,7 +25,7 @@ const props = defineProps({
     padding: 4px 16px;
     border-radius: 50px;
     background-color: #e4e4e4;
-    color: var(----bernic-studio-general-fcolor-2);
+    color: var(----bernomix-general-fcolor-1);
     font-size: 14px;
     font-weight: 600;
   }
@@ -39,7 +39,7 @@ const props = defineProps({
     margin-top: 8px;
     font-weight: 400;
     line-height: 1.4;
-    color: var(--bernic-studio-general-fcolor-3);
+    color: var(--bernomix-general-fcolor-2);
   }
 }
 </style>

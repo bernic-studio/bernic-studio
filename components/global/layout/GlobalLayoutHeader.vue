@@ -24,12 +24,12 @@ function onPathChanged(newPath: string) {
         headerMainLinkProjectsElement.style.backgroundColor = "transparent"
 
         headerMainLinkHomeElement.style.color = "#005fb8";
-        headerMainLinkProjectsElement.style.color = "var(--bernic-studio-general-fcolor-3)"
+        headerMainLinkProjectsElement.style.color = "var(--bernomix-general-fcolor-2)"
       } else if (newPath.startsWith("/projects")) {
         headerMainLinkHomeElement.style.backgroundColor = "transparent";
         headerMainLinkProjectsElement.style.backgroundColor = "#e8e8e8"
 
-        headerMainLinkHomeElement.style.color = "var(--bernic-studio-general-fcolor-3)";
+        headerMainLinkHomeElement.style.color = "var(--bernomix-general-fcolor-2)";
         headerMainLinkProjectsElement.style.color = "#005fb8"
       } else {
         console.log("AUGH!");
@@ -43,12 +43,12 @@ function onPathChanged(newPath: string) {
         headerMainLinkProjectsElement.style.backgroundColor = "transparent"
 
         headerMainLinkHomeElement.style.color = "#005fb8";
-        headerMainLinkProjectsElement.style.color = "var(--bernic-studio-general-fcolor-3)"
+        headerMainLinkProjectsElement.style.color = "var(--bernomix-general-fcolor-2)"
       } else if (newPath.startsWith("/projects")) {
         headerMainLinkHomeElement.style.backgroundColor = "transparent";
         headerMainLinkProjectsElement.style.backgroundColor = "#e8e8e8"
 
-        headerMainLinkHomeElement.style.color = "var(--bernic-studio-general-fcolor-3)";
+        headerMainLinkHomeElement.style.color = "var(--bernomix-general-fcolor-2)";
         headerMainLinkProjectsElement.style.color = "#005fb8"
       } else {
         console.log("AUGH!");
@@ -99,7 +99,7 @@ function onPathChanged(newPath: string) {
 
       a {
         transition: 0.1s;
-        color: var(--bernic-studio-general-fcolor-3);
+        color: var(--bernomix-general-fcolor-2);
         text-decoration: none;
         padding: 5px 11px 6px;
         margin: 0px 4px;
