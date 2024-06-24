@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1600"
+   width="1800"
    height="512"
-   viewBox="0 0 1600 512"
+   viewBox="0 0 1800 512"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -27,14 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.56140411"
-     inkscape:cx="790.87416"
-     inkscape:cy="414.14018"
+     inkscape:cx="1054.4989"
+     inkscape:cy="385.64021"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffff00" />
   <defs
      id="defs1" />
   <g
@@ -62,14 +63,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-weight:600;font-size:160px;font-family:Rubik;-inkscape-font-specification:'Rubik Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:2"
-       x="424.2489"
-       y="306.47"
+       style="font-weight:600;font-size:200px;font-family:Rubik;-inkscape-font-specification:'Rubik Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:2"
+       x="430.90515"
+       y="328.10001"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         x="424.2489"
-         y="306.47"
-         style="font-size:160px;fill:#000000;fill-opacity:1">Bernic Studio</tspan></text>
+         x="430.90515"
+         y="328.10001"
+         style="font-size:200px;fill:#000000;fill-opacity:1">Bernic Studio</tspan></text>
   </g>
 </svg>
